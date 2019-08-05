@@ -1,0 +1,10 @@
+body{
+ background-image: url("a.jpg");
+    background-repeat: repeat;
+ background-size: 100%;
+  background-position: center;
+ } 
+ 
+ .c1{
+	 text-align: center;
+ }

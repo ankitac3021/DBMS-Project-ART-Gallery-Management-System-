@@ -1,0 +1,13 @@
+body{
+ background-image: url("twitter.jpg");
+    background-repeat: repeat;
+ background-size: 100%;
+  background-position: center;
+ } 
+ 
+ .c1{
+	 
+	 text-align: center-left;
+	 margin-left: 370px;
+	 margin-top:350px;
+ }

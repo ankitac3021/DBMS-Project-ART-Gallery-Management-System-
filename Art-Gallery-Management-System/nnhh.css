@@ -1,0 +1,23 @@
+body{
+ background-image: url("see.jpg");
+    background-repeat: repeat;
+ background-size: 100%;
+  background-position: center;
+ } 
+ .p1{
+	 margin-left: 400px;
+	 margin-top: 180px;
+	 }
+	.button{
+	 margin-left: 220px;
+	 margin-top: 20px;
+	 background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+	font-size: 20px;
+	 }
+	 
+.op{
+	margin-top:150px;
+	margin-left:632px;
+}

@@ -1,0 +1,13 @@
+body{
+ background-image: url("instajpg.jpg");
+    background-repeat: repeat;
+ background-size: 100%;
+  background-position: center;
+ } 
+ 
+ .c1{
+	 
+	text-align: center-left;
+	 margin-left: 460px;
+	 margin-top:380px;
+ }
